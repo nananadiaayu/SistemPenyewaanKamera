@@ -242,7 +242,6 @@ public class SistemPenyewaanKamera {
 
         for (int i = 0; i < jumlahKamera; i++) {
 
-            // Memanggil method overriding
             daftarKamera[i].tampilkanInfo();
         }
 
